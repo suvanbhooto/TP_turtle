@@ -1,0 +1,1 @@
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/local_setup.zsh

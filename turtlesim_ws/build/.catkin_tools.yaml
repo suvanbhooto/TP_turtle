@@ -1,0 +1,6 @@
+devel_space: /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel
+install: false
+install_space: /home/akash/Documents/ros_turtlesim/turtlesim_ws/install
+profile: default
+source_space: /home/akash/Documents/ros_turtlesim/turtlesim_ws/src
+workspace: /home/akash/Documents/ros_turtlesim/turtlesim_ws

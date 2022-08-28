@@ -1,0 +1,13 @@
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/build/catkin_tools_prebuild
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/setup.zsh /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./setup.zsh
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/setup.bash /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./setup.bash
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/setup.sh /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./setup.sh
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/env.sh /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./env.sh
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/_setup_util.py /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./_setup_util.py
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/local_setup.sh /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./local_setup.sh
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/cmake.lock /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./cmake.lock
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/local_setup.zsh /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./local_setup.zsh
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/local_setup.bash /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./local_setup.bash
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake /home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

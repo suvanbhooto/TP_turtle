@@ -1,0 +1,1 @@
+/home/akash/Documents/ros_turtlesim/turtlesim_ws/devel/./cmake.lock 1
